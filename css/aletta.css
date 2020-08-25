@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'aletta';
+    src: url('fonts/aletta/aletta-regular-webfont.woff2') format('woff2'),
+         url('fonts/aletta/aletta-regular-webfont.woff') format('woff'),
+         url('fonts/aletta/aletta-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
